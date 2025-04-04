@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+         <title>Mon Site Test</title>
+     </head>
+     <body>
+         <h1>Bienvenue sur mon site Android !</h1>
+     </body>
+     </html>
+     
